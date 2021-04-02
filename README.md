@@ -3,7 +3,7 @@
 ## What is Express?
 Express is a package that we can install with npm. We are going to use it to build our first API. It lets us receive incoming web requests based on their http verb and route. Pop quiz: identify the http verb and route for this request:
 ```
-GET http://your-new-api.com/puppies`
+GET http://your-new-api.com/puppies
 ```
 
 ## Getting Started
